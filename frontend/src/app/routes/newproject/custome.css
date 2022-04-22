@@ -1,0 +1,94 @@
+.customeCard .jr-card{
+    box-shadow: none !important;
+    padding:0px;
+}
+
+.activebrand{
+    border: 2px solid #3f51b5;
+    box-shadow: 0px 8px 10px rgb(0 0 0 / 20%);
+    transition: all 0.4s ease-in-out 0.1s;
+    background-color: #f2f2f2;
+  
+}
+
+.activebrand:hover{
+   
+}
+/* .brand-step-0>span>div{
+    background: rgb(0,121,254);
+    background: linear-gradient(90deg,rgba(0,121,254,1) 0%, rgba(5,198,253,1) 100%);
+}
+.brand-step-1>span>div{
+    background: rgb(104,44,48);
+    background: linear-gradient(0deg, rgba(104,44,48,1) 0%, rgba(165,146,120,1) 40%, rgba(53,110,216,1) 77%, rgba(30,85,177,1) 100%);
+}
+.brand-step-2>span>div{
+    background: rgb(221,221,221);
+    background: linear-gradient(158deg, rgba(221,221,221,1) 0%, rgba(64,64,64,1) 100%);
+} */
+
+.custompargraph{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+
+.customdisply{
+    display: inline;
+}
+
+/* image fade-in and out */
+.fade-in{
+    animation: fadeIn 3s;
+}
+.fade-incustom{
+    animation: fadeIncustom 2s;
+}
+
+@keyframes fadeIn {
+    from{
+        opacity: 0;
+    }
+
+    to{
+        opacity: 1;
+    }
+}
+
+
+@keyframes fadeIncustom {
+    from{
+        opacity: 0;
+    }
+
+    to{
+        opacity: 1;
+    }
+}
+
+.imagebrandhieght{
+    height: 100px;
+}
+.img_solar_brand_hieght{
+    height: 80px;
+}
+.solar>.brand-logo{
+    padding-bottom: 80%;
+}
+.customslider{
+    height: 118px;
+}
+
+/* country flag */
+.customflag{
+    width: 20px;
+    height: 20px;
+}
+
+/* custom widget hover */
+.customWidgetHover:hover{
+    box-shadow: 0px 8px 10px rgb(0 0 0 / 20%);
+    transition: all 0.4s ease-in-out 0.1s;
+    background-color: #2236f2;
+    border-radius: 5%;
+}

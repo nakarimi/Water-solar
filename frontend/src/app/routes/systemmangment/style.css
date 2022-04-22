@@ -1,0 +1,536 @@
+@media (min-width: 1200px)
+{
+    .solarCDropzone{
+        flex: 0 0 24.66667% !important;
+        max-width: 24.66667% !important;
+    }
+    .col1-m1 {
+        flex: 0 0 11.66667% !important;
+        max-width: 11.66667% !important;
+    }
+}
+.solarCDropzone .dropzone{
+    display: inline-flex;
+    margin-right: 5px !important;
+    margin-bottom: 10px !important;
+}
+.solarCDropzone .dropzone-content{
+    display: inline-flex !important;
+    flex-flow: wrap-reverse !important;
+    margin-top: 0px !important;
+    float: right !important;
+}
+.solar_config_img{
+    width: 122px !important;
+    height: 47px !important;
+    background-color: #0d6efd;
+    border: 1px solid #0d6efd;
+}
+.solarCDropzone .dropzone-content>div{
+    margin-bottom: 0px !important;
+    margin-right: 0px !important;
+    width: 125px !important;
+    height: 45px !important;
+}
+
+.solarCDropzone .dropzone-content>div img{
+    width: 100% !important;
+    height: inherit !important;
+}
+
+.wp-brand{
+    margin-top: 10px;
+}
+.app-header-horizontal .app-toolbar .search-bar{
+    display: none !important;
+}
+.app-header-horizontal .app-main-menu{
+    margin: auto;
+}
+.rSPrSection{
+    max-height: 580px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.dashboard-slide .slick-slider img {
+    height: 260px;
+    margin-bottom: 0 !important;
+}
+.dashboard-slide .jr-card{
+    padding: 20px;
+    padding-bottom: 9px;
+}
+.dashboard-brand .jr-card, .dashborad-brand-list .jr-card, .dashboard-project .jr-card {
+    padding: 20px;
+}
+.dashboard-brand .jr-card-header {
+    margin-bottom: 8px;
+}
+.dashboard-brand .slick-slider {
+    margin-bottom: 0px;
+}
+.user-list-sect .table-responsive-material {
+    height: 250px;
+}
+.dashboard-project .table-responsive-material {
+    height: 270px;
+}
+.slick-slider .slick-prev:before, .slick-slider .slick-next:before {
+    color: #3fa2c8;
+}
+.dashborad-brand-list .table-responsive-material {
+    height: 158px;
+}
+
+.p-Padding-bottom{
+    padding-bottom: 15px !important;
+}
+.row-paddding-top{
+    padding-top: 15px !important;
+}
+.swal2-container{
+    z-index: 99999 !important;
+}
+
+.custRespTable{
+    max-height: 237.19px;
+}
+.displayBlock{
+    display: block;
+}
+.displayNone{
+    display: none;
+}
+.errorText{
+    color: red;
+}
+.error{
+    border: 1px solid red;
+}
+.error:focus{
+    border: 1px solid red;
+}
+.sp-second-col .table-responsive-material, .wp-second-col .table-responsive-material{
+    max-height: 155px;
+    min-height: 155px;
+    overflow-y: auto;
+}
+.paddingBottom{
+    padding-bottom: 15px;
+}
+.diver-sys{
+    background-color: #4a5bb9 !important;
+    height: 30px !important;
+}
+.simpleBtn{
+    border-color: #4a5bb9 !important;
+}
+.MuiFormControl-root.MuiTextField-root{
+    margin-left: 10px im !important;
+}
+.MuiAutocomplete-root{
+    display: inline-block !important;
+    width: 100% !important;
+}
+.waterPumpPanel .MuiBox-root{
+    padding: 0px !important;
+}
+ .paddingTopForm{
+     padding-top: 20px !important;
+ }
+ .minWidth{
+     width: 100% !important;
+ }
+ 
+ .customizedDialog1{
+    padding: 0px 0px !important;
+ }
+ .customizedDialog1 header{
+    padding: 8px 24px !important;
+ }
+ .waterPumpPanel .MuiFormControl-root, .fullWidthInput{
+    width: 100%;
+ }
+ .waterPumpPanel .MuiButton-textPrimary:hover{
+    background-color: #4356c3;
+    color: #ffffff;
+ }
+ .react-swipeable-view-container > div:first-child, .react-swipeable-view-container > div:last-child{
+    width: 549px !important;
+    overflow: inherit !important;
+ }
+.sunnyIcon, .lDrinkIcon{
+    height: 2em !important;
+    width: 2em !important;
+}
+.waterPumpPanelBackGrad{
+    background: rgb(0,121,254);
+background: linear-gradient(90deg, rgba(0,121,254,1) 0%, rgba(5,198,253,1) 100%);
+}
+.solarPanalBackGrad{
+    background: rgb(104,44,48);
+background: linear-gradient(0deg, rgba(104,44,48,1) 0%, rgba(165,146,120,1) 40%, rgba(53,110,216,1) 77%, rgba(30,85,177,1) 100%);
+}
+.invertorBackGrad{
+    /* background: rgb(159,159,159);
+    background: linear-gradient(90deg, rgba(159,159,159,1) 0%, rgba(159,159,159,1) 97%); */
+    background: rgb(221,221,221);
+    background: linear-gradient(158deg, rgba(221,221,221,1) 0%, rgba(64,64,64,1) 100%);
+}
+.insideFormBP{
+    padding-bottom: 15px;
+}
+.accessory_file .dropzone{
+    display: flow-root !important;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 0px;
+} 
+.accessory_file .dropzone-file-btn{
+    height: 100px !important;
+    width: 240px !important;
+}
+.accessory_file .dropzone-card{
+    margin-top: -15px;
+}
+.accessBtn{
+    bottom: 5px !important;
+    right: 15px !important;
+    position: absolute !important;
+}
+.waterPumFile .dropzone-file-btn{
+    height: 100px !important;
+    width: 120px !important;
+}
+.waterPumpListFile .dropzone-file-btn{
+    height: 60px !important;
+    width: inherit !important;
+    margin-left: 0px;
+}
+.cellPadding{
+    padding: 8px !important;
+}
+.MuiSlider-mark.MuiSlider-markActive {
+    background-color: #3f51b5 !important;
+}
+
+.MuiSlider-mark {
+    background-color: #fff !important;
+}
+@media(min-width: 904px){
+    .dialogWD .MuiDialog-paperWidthSm{
+        max-width: 1200px !important;
+        min-width: 900px !important;
+    }
+}
+
+.insideFormPadding, .insideFormPadding1, .insideFormPadding2, .insideFormPadding3{
+padding: 0px 15px 10px;
+}
+.pr-slider{
+    padding-right: 20px;
+}
+
+.insideFormBPCable{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.insideFormPadding1 span[data-index="0"].MuiSlider-markLabel {
+    left: 9% !important;
+}
+.insideFormPadding1.powerW-solarL span[data-index="0"].MuiSlider-markLabel {
+    left: 4% !important;
+}
+.insideFormPadding2.ivertor-vol{
+    padding: 0px 21px 15px 15px;
+}
+.insideFormPadding2.ivertor-vol span[data-index="0"].MuiSlider-markLabel {
+    left: 7% !important;
+}
+.insideFormPadding2.ivertor-vol span[data-index="3"].MuiSlider-markLabel {
+    left: 92% !important;
+}
+.insideFormPadding1.inverPower span[data-index="0"].MuiSlider-markLabel {
+    left: 6% !important;
+}
+.insideFormPadding1.inverPower span[data-index="23"].MuiSlider-markLabel {
+    left: 95% !important;
+}
+.insideFormPadding2 span[data-index="0"].MuiSlider-markLabel{
+    left: 3% !important;
+}
+.insideFormPadding3 span[data-index="0"].MuiSlider-markLabel{
+    left: 2% !important;
+}
+.insideFormPadding2.ivertor-ac span[data-index="0"].MuiSlider-markLabel, .insideFormPadding3.ivertor-dc span[data-index="0"].MuiSlider-markLabel{
+    left: 7% !important;
+}
+.insideFormPadding1 span[data-index="1"].MuiSlider-markLabel {
+    left: 91% !important;
+}
+.insideFormPadding1.powerW-solarL span[data-index="1"].MuiSlider-markLabel {
+    left: 96% !important;
+}
+.insideFormPadding1.inverPower span[data-index="1"].MuiSlider-markLabel {
+    left: 91% !important;
+}
+.descriptInvertor{
+    padding-top: 15px;
+}
+.insideFormPadding1 span[data-index="2"].MuiSlider-markLabel{
+    left: 94% !important;
+}
+.insideFormPadding2 span[data-index="1"].MuiSlider-markLabel{
+    left: 93% !important;
+}
+.insideFormPadding3.ivertor-ac span[data-index="0"].MuiSlider-markLabel{
+    left: 7% !important;
+}
+.insideFormPadding3.ivertor-ac span[data-index="1"].MuiSlider-markLabel{
+    left: 93% !important;
+}
+.insideFormPadding3 span[data-index="1"].MuiSlider-markLabel{
+    left: 96% !important;
+}
+.insideFormPadding3.ivertor-dc span[data-index="1"].MuiSlider-markLabel{
+    left: 92% !important;
+}
+.insideFormPaddingWPS{
+    padding: 0px 15px 0px;
+}
+@media(max-width:991px){
+    .insideFormPaddingWPS{
+        padding: 0px 15px 15px 15px;
+    }
+}
+.insideFormPaddingWPS span[data-index="0"].MuiSlider-markLabel {
+    left: 4% !important;
+}
+.insideFormPaddingWPS span[data-index="1"].MuiSlider-markLabel{
+    left: 93% !important;
+}
+.inWPS3 span[data-index="1"].MuiSlider-markLabel{
+    left: 90% !important;
+}
+.inWPST{
+    padding-top: 5px !important;
+}
+.MuiTypography-body1 {
+    font-size: 0.8rem !important;
+    margin-bottom: 0px !important;
+}
+.MuiSlider-markLabel{
+    font-size: 0.775rem !important;
+}
+.MuiSlider-marked {
+    margin-bottom: 0px !important;
+}
+
+.powerKW-PR{
+    padding: 0 22px 22px 15px !important;
+}
+.voltage span[data-index="0"].MuiSlider-markLabel {
+    left: 10% !important;
+}
+.voltage span[data-index="2"].MuiSlider-markLabel {
+    left: 90% !important;
+}
+.powerKW-PR span[data-index="0"].MuiSlider-markLabel {
+    left: 10% !important;
+}
+.powerKW-SS1 span[data-index="0"].MuiSlider-markLabel {
+    left: 10% !important;
+}
+.powerKW-SS1 span[data-index="22"].MuiSlider-markLabel {
+    left: 93% !important;
+}
+.powerHP span[data-index="0"].MuiSlider-markLabel {
+    left: 2% !important;
+}
+.powerHP span[data-index="19"].MuiSlider-markLabel {
+    left: 96% !important;
+}
+.powerHP{
+    margin-bottom: 5px;
+}
+.mb-invertor{
+    margin-bottom: 10px;
+}
+.invertor-config-row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.mb-invertor span[data-index="0"].MuiSlider-markLabel {
+    left: 10% !important;
+}
+.mb-invertor span[data-index="22"].MuiSlider-markLabel {
+    left: 93% !important;
+}
+.powerKW-PR span[data-index="22"].MuiSlider-markLabel {
+    left: 91% !important;
+}
+@media(max-width: 425px){
+    .accessory_file .dropzone-file-btn {
+        width: 160px !important;
+    }
+    .waterPumFile .dropzone-file-btn {
+        width: 120px !important;
+    }
+    .btnAccessory, .btn-WPDF{
+        height: 47px !important;
+    }
+    .accessory_file .dropzone{
+        margin-right: 5px;
+    }
+}
+.insideFormBP .MuiFormControl-root.MuiTextField-root{
+    width: 100%;
+}
+.insideFormPaddingWPS .bd-example>.btn-group {
+    margin: .25rem .125rem;
+}
+.insideFormPaddingWPS .btn-group, .insideFormPaddingWPS .btn-group-vertical {
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+}
+.insideFormPaddingWPS .btn-check {
+    position: absolute;
+    clip: rect(0,0,0,0);
+    pointer-events: none;
+}
+.insideFormPaddingWPS input{
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.insideFormPaddingWPS .btn-group>.btn-group:not(:last-child)>.btn, .insideFormPaddingWPS .btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 0 !important;;
+    border-bottom-right-radius: 0 !important;;
+}
+.insideFormPaddingWPS .btn-group>.btn-check:checked+.btn{
+    z-index: 1;
+}
+.insideFormPaddingWPS .btn-group>.btn-group:not(:first-child), .insideFormPaddingWPS .btn-group>.btn:not(:first-child) {
+    margin-left: -1px;
+}
+.insideFormPaddingWPS .btn-check:active+.btn-outline-primary, .insideFormPaddingWPS .btn-check:checked+.btn-outline-primary,.insideFormPaddingWPS .btn-outline-primary.active, .insideFormPaddingWPS .btn-outline-primary.dropdown-toggle.show, .insideFormPaddingWPS .btn-outline-primary:active {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.insideFormPaddingWPS .btn-group-vertical>.btn, .insideFormPaddingWPS .btn-group>.btn {
+    position: relative;
+    flex: 1 1 auto;
+}
+.insideFormPaddingWPS .btn-group>.btn-group:not(:first-child)>.btn, .insideFormPaddingWPS .btn-group>.btn:nth-child(n+3), .insideFormPaddingWPS .btn-group>:not(.btn-check)+.btn{
+    border-top-left-radius: 0 !important;;
+    border-bottom-left-radius: 0 !important;;
+}
+.insideFormPaddingWPS .btn-outline-primary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+.insideFormPaddingWPS .bd-example>.btn, .insideFormPaddingWPS .bd-example>.btn-group {
+    margin: .25rem .125rem !important;
+}
+.insideFormPaddingWPS .btn {
+    border-radius: .25rem !important;
+    padding: 0.68rem 0.54rem !important;
+}
+.group_radio label.btn.btn-outline-primary{
+    padding: 0.68rem 1.54rem !important;
+}
+.group_radio_phase label.btn.btn-outline-primary{
+    padding: 0.68rem 1.05rem !important;
+}
+/* my code */
+.insideFormPaddingWPS .btn-group label:first-child{
+    border-top-right-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+}
+.insideFormPaddingWPS .btn-outline-primary:hover {
+    color: #fff !important;
+    background-color: #0d6efd !important;
+    border-color: #0d6efd !important;
+}
+.insideSPDS .insideFormPaddingWPS {
+    padding: 0px 10px 0px;
+}
+.inWPSG2{
+    flex: 0 0 27% !important;
+    max-width: 27% !important;
+}
+.insideSPDS .dropzone{
+    margin-right: 15px;
+}
+.insideSPDS .dropzone-file-btn {
+    height: 40px !important;
+    width: 70px !important;
+}
+.myFormControl{
+    padding: 0 5px 10px;
+}
+.barCharGeo .jr-card {
+    padding: 0px 10px 5px 0px!important;
+    margin-bottom: 0px !important;
+}
+
+.hiegthCard .table-responsive-material{
+    overflow-y: auto !important;
+    height: 185px !important;
+}
+.tap1_acc .MuiBox-root {
+    padding: 0 !important;
+}
+/* .tap1_acc .MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    display: none;
+} */
+.edit_img_width{
+    width: 130px !important;
+}
+.acc_img_width{
+    width: 60px !important;
+}
+.sp_right_padding{
+    padding-right: 10px !important;
+}
+.project_bas_field{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.project_bas_field .btn:not(:last-child) {
+    margin-right: 0px; 
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.project_bas_field .btn:last-child {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+.project_bas_field .btn{
+    padding: 0.68rem 2rem !important;
+}
+.dis-wps span[data-index="0"].MuiSlider-markLabel {
+    left: 9% !important;
+}
+.dis-wps span[data-index="1"].MuiSlider-markLabel {
+    left: 89% !important;
+}
+@media (min-width: 600px){
+   .app-header-horizontal .MuiToolbar-regular {
+        min-height: 80px;
+    }
+}
+.app-logo img {
+    height: 75px;
+}
+.powerW-solarL{
+    padding: 0px 22px 15px 10px;
+}
+.accessory-row .dropzone-content span>a{
+    background-color: transparent;
+    border: 2px dashed #3f51b5;
+}

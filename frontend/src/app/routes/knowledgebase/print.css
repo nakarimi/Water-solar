@@ -1,0 +1,13 @@
+@media print  {
+  body {
+  	font-size: 11pt;
+  }
+  
+  main {
+    float: none !important;
+    margin: 0 2% 0 18% !important;
+    width: 80% !important;
+  }
+  
+ 
+}

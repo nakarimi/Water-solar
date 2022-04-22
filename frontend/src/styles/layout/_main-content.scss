@@ -1,0 +1,18 @@
+/*Main Content Styles*/
+.app-main-content {
+  flex: 1;
+  width: 100%;
+}
+
+.app-wrapper {
+ // padding: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 120px;
+  padding-left: 120px;
+  width: 100%;
+
+  @media screen and (max-width: 575px) {
+    padding: 20px;
+  }
+}

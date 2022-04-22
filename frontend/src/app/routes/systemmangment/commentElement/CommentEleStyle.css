@@ -1,0 +1,22 @@
+/* .inputAdornmentWrap .MuiInputBase-adornedStart{
+    display: flow-root !important;
+    padding-left: 0px !important;
+    padding-right: 20px !important; 
+}
+.inputAdornmentWrap .MuiInputAdornment-positionEnd{
+    margin-right: 8px;
+    float: right !important;
+}
+.inputAdornmentWrap .MuiOutlinedInput-inputAdornedStart {
+    padding-right: 0px !important;
+} */
+.inputAdornmentWrap .MuiOutlinedInput-adornedStart {
+    padding-left: 0px;
+}
+/* .waterPumFile .dropzone-file-btn{
+    height: 100px !important;
+    width: 190px !important;
+} */
+.inputAdornmentWrap .MuiOutlinedInput-inputAdornedStart {
+    padding-left: 4px !important;
+}
